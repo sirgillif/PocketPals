@@ -1,0 +1,19 @@
+{
+  "name": "poketpals",
+  "version": "0.0.1",
+  "description": "game that you catch pals that you can carry around and chalenge other to see whos pals are the best!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirgillif/PocketPals.git"
+  },
+  "author": "Patrick Galloway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirgillif/PocketPals/issues"
+  },
+  "homepage": "https://github.com/sirgillif/PocketPals#readme"
+}
